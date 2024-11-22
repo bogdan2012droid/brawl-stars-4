@@ -1,0 +1,121 @@
+body {
+    font-family: sans-serif;
+    background-color: burlywood;
+    width:775px;
+}
+
+h1{
+    text-align: center;
+   background-color: mediumaquamarine;
+   font-size: 40px;
+   font-family: fantasy;
+}
+
+
+
+main{
+  text-align: center;
+  font-size: 20px;
+  color: cornflowerblue;
+  background-color: blueviolet;
+}
+  
+
+  
+  ul{
+    text-align: left;
+    color: white;
+  }
+
+
+  img{
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+   
+  }
+
+
+  footer{
+    background-color: black;
+    text-align: center;
+    color: aqua;
+    font-size: 20px;
+    
+  }
+
+  footer img{
+    width: 100px;
+    height: 100px;
+  }
+
+
+
+  .gallery{
+    display: flex;
+    justify-content: center;
+    border: 5px solid black;
+    border-radius: 20%;
+    align-items: center;
+  }
+
+
+
+  .ad {
+    float: right;
+    height: 350px;
+   align-items: center;
+    margin-top: 90px;
+    padding: 30px;
+    border: 2px dotted navy;
+}
+
+
+h3{
+  text-align: center;
+  background-color: brown;
+  font-size: 25px;
+  font-family: cursive;
+}
+
+.article{
+    display: flex;
+  border: 5px dotted darkslategrey;
+  border-radius: 10px;
+  align-items: center;
+}
+
+
+  
+
+  nav{
+ text-align: center;
+
+}
+
+nav a{
+    padding: 10px;
+    margin: 10px;
+    background-color: greenyellow;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 15px;
+    color: chocolate;
+    font-family: monospace;
+}
+
+
+h2{
+    font-family: monospace;
+}
+
+ol{
+font-family: monospace;
+}
+
+
+ul{
+    font-family: fantasy;
+}
+
+
